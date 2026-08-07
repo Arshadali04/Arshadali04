@@ -4,7 +4,7 @@
 
 ### Data Analyst / Data Engineer in the making — I turn messy data into decisions
 
-I'm a third-year Computer Science student who spends more time inside Jupyter notebooks and Power BI dashboards than I'd like to admit. I like taking data that nobody trusts yet — raw, inconsistent, too large to eyeball — and turning it into something a business can actually act on.
+I'm a final-year Computer Science student who spends more time inside Jupyter notebooks and Power BI dashboards than I'd like to admit. I like taking data that nobody trusts yet — raw, inconsistent, too large to eyeball — and turning it into something a business can actually act on.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arshadali04-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshadali4)
@@ -96,7 +96,7 @@ A FastAPI system that processes backend request data and flags abnormal traffic 
 
 **Key result:** Real-time anomaly detection on live API traffic, with a dashboard built for both technical and non-technical viewers.
 
-[`View Repository →`](https://github.com/Arshadali04)
+[`View Repository →`](https://github.com/Arshadali04/zero-trust-secure-api-gateway)
 
 </td>
 <td width="50%">
@@ -109,7 +109,7 @@ A privacy-preserving pipeline for financial datasets, applying K-Anonymity (K=10
 
 **Key result:** Cut manual anonymization effort by 80% while retaining 90%+ statistical utility; processing time reduced from minutes to under 30 seconds.
 
-[`View Repository →`](https://github.com/Arshadali04)
+[`View Repository →`](https://github.com/Arshadali04/Data-annonymizatiom-in-Financial-system)
 
 </td>
 </tr>
@@ -124,7 +124,7 @@ A five-page Power BI dashboard analyzing 100,000+ ride bookings, backed by a sta
 
 **Key result:** Standardized 100,000+ records across vehicle type, payment method, and cancellation reason; validated KPIs with window functions and CTEs.
 
-[`View Repository →`](https://github.com/Arshadali04)
+[`View Repository →`](https://github.com/Arshadali04/Ola-Ride-Analytics)
 
 </td>
 <td width="50%">
@@ -137,7 +137,7 @@ A K-Means clustering analysis on 3,030 customer records for a fictional gaming m
 
 **Key result:** Case study deck built programmatically end-to-end, including native charts and embedded visualizations — no manual slide design.
 
-[`View Repository →`](https://github.com/Arshadali04)
+[`View Repository →`]()
 
 </td>
 </tr>
