@@ -152,11 +152,10 @@ A K-Means clustering analysis on 3,030 customer records for a fictional gaming m
 <img src="https://github-readme-stats.vercel.app/api?username=Arshadali04&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshadali04&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshadali04&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9" width="48%" />
+
 
 </div>
 
-> Replace `Arshadali04` above only if your GitHub username changes — these render live, no setup needed beyond a public profile.
 
 <br>
 
