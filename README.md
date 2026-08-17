@@ -145,12 +145,11 @@ A K-Means clustering analysis on 3,030 customer records for a fictional gaming m
 
 <br>
 
+
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Arshadali04&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
-
+  <img src="https://streak-stats.demolab.com/?user=Arshadali04&theme=dark&hide_border=true" width="48%" />
 </div>
 
 <br>
